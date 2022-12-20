@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kaankaltakkiran](https://github.com/kaankaltakkiran)
 
-- 📝 I regularly write articles on [https://kaanwebsite.cyclic.app/](https://kaanwebsite.cyclic.app/)
+- 📝 I regularly write articles on [https://my-personel-web-site.onrender.com/](https://my-personel-web-site.onrender.com/)
 
 - 💬 Ask me about **Html,Css,JavaScript,NodeJs,React**
 
