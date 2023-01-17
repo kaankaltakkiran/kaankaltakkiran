@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NodeJs,React**
 
-- 👯 I’m looking to collaborate on [https://wtucbitirme.cyclic.app/](https://wtucbitirme.cyclic.app/)
+- 👯 I’m looking to collaborate on [https://wtucbitirme.onrender.com/](https://wtucbitirme.onrender.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/kaankaltakkiran](https://github.com/kaankaltakkiran)
 
