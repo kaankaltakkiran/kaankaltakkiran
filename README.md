@@ -104,10 +104,3 @@
 
 ###
 
-&nbsp;<div align="center">
-  [![Spotify](https://kaankaltakkiran.vercel.app//api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/kaankaltakkiran)
-</div>
-
-<a href="https://github.com/tthn0/Spotify-Readme">
-  <img src="https://kaankaltakkiran-daml.vercel.app/api" alt="Current Spotify Song">
-</a>
