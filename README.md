@@ -3,7 +3,7 @@
 </div>
 
 ###
-[![Spotify](https://novatorem-kaan-kaltakkirans-projects.vercel.app/api/spotify)](https://open.spotify.com/user/kaankaltakkıran)
+
 <div align="center">
   <a href="https://www.linkedin.com/in/durdu-kaan-kaltakk%C4%B1ran-aba776223/?originalSubdomain=tr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -104,3 +104,6 @@
 
 ###
 
+&nbsp;<div align="center">
+  [![Spotify](https://kaanspotify-kaan-kaltakkirans-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+</div>
