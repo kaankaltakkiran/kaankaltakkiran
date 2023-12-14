@@ -105,5 +105,5 @@
 ###
 
 &nbsp;<div align="center">
-  [![Spotify](https://kaanspotify-kaan-kaltakkirans-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+  [![Spotify](https://kaanspotify-kaan-kaltakkirans-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31ejzqqmyjaf27agzfrq5kd3ayee?si=b5f5612c92604fc9)
 </div>
