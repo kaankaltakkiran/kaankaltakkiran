@@ -21,6 +21,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/kaankaltakkiran/count.svg?"  />
+</div>
+
+###
+
 <h1 align="center">Hello 👋</h1>
 
 ###
@@ -90,6 +96,13 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kaankaltakkiran&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
@@ -104,6 +117,12 @@
 
 ###
 
-&nbsp;<div align="center">
-  [![Spotify](https://kaanspotify-kaan-kaltakkirans-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31ejzqqmyjaf27agzfrq5kd3ayee?si=b5f5612c92604fc9)
+<div align="center">
+  <img src="https://kaanspotify-kaan-kaltakkirans-projects.vercel.app/api/spotify??" alt="Widget with the current Spotify song"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/kaankaltakkiran/kaankaltakkiran/output/snake.svg" alt="Snake animation" />
+
+###
