@@ -114,16 +114,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
-###
 
-<img src="https://raw.githubusercontent.com/kaankaltakkiran/kaankaltakkiran/output/snake.svg" alt="Snake animation" />
 
 ###
-###
+
 
 <div align="center">
   <img src="https://kaanspotify-kaan-kaltakkirans-projects.vercel.app/api/spotify??" alt="Widget with the current Spotify song"  />
 </div>
 
 ###
-
+<img src="https://raw.githubusercontent.com/kaankaltakkiran/kaankaltakkiran/output/snake.svg" alt="Snake animation" />
