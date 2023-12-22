@@ -96,6 +96,10 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaankaltakkiran&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=kaankaltakkiran&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
