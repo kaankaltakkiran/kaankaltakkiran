@@ -117,7 +117,7 @@
 
 
 ###
-<img src="machine.gif">
+<img src="skill.png">
 
 <div align="center">
   <img src="https://kaanspotify-kaan-kaltakkirans-projects.vercel.app/api/spotify??" alt="Widget with the current Spotify song"  />
