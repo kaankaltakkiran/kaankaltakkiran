@@ -28,8 +28,8 @@
 ###
 
 <h1 align="center">Hello 👋</h1>
+<a href="https://wakatime.com/@2c439a81-2ce7-4f61-9a8b-f9cc127cfa22"><img src="https://wakatime.com/badge/user/2c439a81-2ce7-4f61-9a8b-f9cc127cfa22.svg" alt="Total time coded since Apr 28 2023" /></a>
 
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
