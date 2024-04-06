@@ -35,8 +35,10 @@
 
 ###
 
-<p align="left">I'm Kaan Kaltakkıran from  İzmir/Türkiye<br><br>- 🔭 I’m working Web development.<br>- 📚 I'm currently working PHP.<br>- ⚡ In my free time I  studying another framework</p>
-
+<p align="left">I'm Kaan Kaltakkıran from  İzmir/Türkiye<br><br>- 🔭 I’m working Web development.<br>- 📚 I'm currently working Vuejs, PHP.<br>- ⚡Fullstack Developer with Linux, MySQL, PHP, Vuejs </p> - ⌛ View my profile on <a href="https://wakatime.com/@kaankaltakkiran" target="_blank">
+WakaTime
+  </a> 
+  
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
