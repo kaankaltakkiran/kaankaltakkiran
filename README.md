@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Kaan Kaltakkıran from  İzmir/Türkiye<br><br>- 🔭 I’m working Web development.<br>- 📚 I'm currently working Vuejs, PHP.<br>- ⚡Fullstack Developer with Linux, MySQL, PHP, Vuejs </p> - ⌛ View my profile on <a href="https://wakatime.com/@kaankaltakkiran" target="_blank">
+<p align="left">I'm Kaan Kaltakkıran from  İzmir/Türkiye<br><br>- 🔭 I’m working Web development.<br>- 📚 I'm currently working Quasar,Vuejs, PHP.<br>- ⚡Fullstack Developer with Linux, MySQL, PHP, Vuejs,Quasar </p> - ⌛ View my profile on <a href="https://wakatime.com/@kaankaltakkiran" target="_blank">
 WakaTime
   </a> 
   
