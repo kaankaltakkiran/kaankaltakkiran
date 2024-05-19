@@ -25,7 +25,7 @@ WakaTime
 ### A Little More About Me! 🧟‍♂️
 
 ```javascript
-const Kaan = {
+const kaan = {
   askMeAbout: ["Web Developer"],
     frontEnd: [
       xp: '2 yrs',
