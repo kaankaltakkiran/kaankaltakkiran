@@ -1,34 +1,14 @@
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<!-- Animated Gif Here -->
+<p align="center">
+  <img src="animated.gif" align="center" width="90%" />
+</p>
 
-<p><img align="right" width="50%" src="javascript.gif" alt="NGUD" /></p>
-
-
-###
-
+<h1 align="center">Hi 👋, I'm Kaan Kaltakkıran</h1>
 <div align="center">
-  <a href="https://www.linkedin.com/in/durdu-kaan-kaltakk%C4%B1ran-aba776223/?originalSubdomain=tr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/kaan_k.kiran/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://twitter.com/kaankiran18" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://linktr.ee/d.kaan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
-  </a>
+ <img src="https://komarev.com/ghpvc/?username=kaankaltakkiran&label=Profile%20views&color=0e75b6&style=flat" alt="kaankaltakkiran" />
+  <img src="https://wakatime.com/badge/user/2c439a81-2ce7-4f61-9a8b-f9cc127cfa22.svg" alt="Total time coded since Apr 28 2023" />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/kaankaltakkiran/count.svg?"  />
-</div>
-
-###
-
-<h1 align="center">Hello 👋</h1>
-<img src="https://wakatime.com/badge/user/2c439a81-2ce7-4f61-9a8b-f9cc127cfa22.svg" alt="Total time coded since Apr 28 2023" />
 
 
 <h3 align="left">👩‍💻  About Me</h3>
@@ -38,103 +18,136 @@
 <p align="left">I'm Kaan Kaltakkıran from  İzmir/Türkiye<br><br>- 🔭 I’m working Web development.<br>- 📚 I'm currently working Quasar,Vuejs, PHP.<br>- ⚡Fullstack Developer with Linux, MySQL, PHP, Vuejs,Quasar </p> - ⌛ View my profile on <a href="https://wakatime.com/@kaankaltakkiran" target="_blank">
 WakaTime
   </a> 
-  
-###
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
-<h3 align="left">🛠 Language and tools</h3>
+### A Little More About Me! 🧟‍♂️
 
-###
+```javascript
+const Kaan = {
+  askMeAbout: ["Web Developer"],
+    frontEnd: [
+      xp: '2 yrs',
+      techs: ["html", "css", "javascript", "typescript", "vue.js", "quasar"]
+    ]
+    backEnd: {
+      xp: '2 yrs'.
+      techs: {
+        "php": ["php",]
+      }
+    }
+    db: {
+      sql: ["mysql"],
+      nosql: ["mongodb"],
+    },
+  }
+  hobbies: {
+    'Playing Games',
+    'Watching Movies',
+  },
+}
+```
+<!-- SkillSet Section Here -->
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
+# 👨‍💻 My Skills Set:
+
+<table><tr><td valign="top" width="33%">
+
+## Frontend
+
+<div align="center">  
+  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" height="50" /></a> 
+  <a href="https://tr.wikipedia.org/wiki/CSS" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" height="50" /></a>  
+  <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap"height="50" /></a>  
+  <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/vuejs-original-wordmark.svg" alt="Vuejs" height="50" /></a>  
+  <a href="https://quasar.dev/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/quasar-logo.svg" alt="Quasar" height="50" /></a>  
+  </div>
+</td><td valign="top" width="33%">
+
+## Backend
+
+<div align="center">  
+    <a href="https://tr.wikipedia.org/wiki/JavaScript" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" height="50" /></a> 
+  <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" height="50" /></a> 
+  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" height="50" /></a> 
+</div>
+</td><td valign="top" width="33%">
+
+## Others
+
+<div align="center">  
+      <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" height="50" /></a> 
+       <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" height="50" /></a> 
+      <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" height="50" /></a> 
+<a href="https://ubuntu.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" height="50" /></a> 
 </div>
 
-###
+</td></tr></table>
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+<!-- GitHub Stats Section Here -->
+
+# 📊 GitHub Stats
+
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaankaltakkiran&layout=compact&theme=monokai" alt=kaankaltakkiran />
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=kaankaltakkiran&show_icons=true&locale=en&theme=monokai" alt="kaankaltakkiran" /></p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaankaltakkiran&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaankaltakkiran&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<a href="https://github.com/kaankaltakkiran">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaankaltakkiran&theme=monokai" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaankaltakkiran&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaankaltakkiran&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaankaltakkiran&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaankaltakkiran&theme=monokai" height="180em" />
 </div>
 
-###
+<!-- GitHub Contribution Section Here -->
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kaankaltakkiran&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+## 📈 GitHub Contribution Graph
 
-###
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kaankaltakkiran&theme=default"/>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-</div>
+<hr>
+
+<!-- Coloured Line -->
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+<!-- Random Quote Section Here -->
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!-- Summary Section Here -->
 
 
-###
-<img src="skill.png">
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 <div align="center">
   <img src="https://kaanspotify-kaan-kaltakkirans-projects.vercel.app/api/spotify??" alt="Widget with the current Spotify song"  />
 </div>
-
-###
+<!-- Coloured Line -->
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 <img src="https://raw.githubusercontent.com/kaankaltakkiran/kaankaltakkiran/output/snake.svg" alt="Snake animation" />
+<div align="center">
+Made By ❤️ Kaan Kaltakkıran © Copyright. All Rights Reserved @2024.
+</div>
 
 
