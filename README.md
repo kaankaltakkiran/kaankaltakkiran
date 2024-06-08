@@ -138,6 +138,19 @@ const kaan = {
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
+### 🎧 My recently played songs
+<div align="center">
+  
+![Spotify recently played!t](https://spotify-recently-played-readme.vercel.app/api?user=31ejzqqmyjaf27agzfrq5kd3ayee&unique={true|1|on|yes})
+</div>
+
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+### 🎧 The song I'm listening to now
+
 <div align="center">
   <img src="https://kaanspotify-kaan-kaltakkirans-projects.vercel.app/api/spotify??" alt="Widget with the current Spotify song"  />
 </div>
