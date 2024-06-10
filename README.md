@@ -141,7 +141,7 @@ const kaan = {
 ### 🎧 My recently played songs
 <div align="center">
   
-![Spotify recently played!t](https://spotify-recently-played-readme.vercel.app/api?user=31ejzqqmyjaf27agzfrq5kd3ayee&unique={true|1|on|yes})
+![Spotify recently played!t](https://spotify-recently-played-readme.vercel.app/api?user=31ejzqqmyjaf27agzfrq5kd3ayee&unique=true)
 </div>
 
 
