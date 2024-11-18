@@ -18,6 +18,14 @@
 <p align="left">I'm Kaan Kaltakkıran from  İzmir/Türkiye<br><br>-⚡Fullstack Developer with Linux, MySQL, PHP, Vuejs,Quasar </p> - ⌛ View my profile on <a href="https://wakatime.com/@kaankaltakkiran" target="_blank">
 WakaTime
   </a> 
+
+  - 📫 Reach me at **kaan@kaankaltakkiran.com**
+
+  - 🌐 My website [**kaankaltakkiran.com**](https://me.kaankaltakkiran.com/)
+
+  
+  - ✉️ Contact me at **durdu.kaan.kaltakkiran@gmail.com**
+
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
