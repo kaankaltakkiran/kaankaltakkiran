@@ -21,8 +21,9 @@ WakaTime
 
   - 📫 Reach me at **kaan@kaankaltakkiran.com**
 
-  - 🌐 My website [**kaankaltakkiran.com**](https://me.kaankaltakkiran.com/)
+  - 🌐 My Personel Website [**kaankaltakkiran.com**](https://me.kaankaltakkiran.com/)
 
+   - 📕 My Blog Website [**blog.kaankaltakkiran.com**](https://blog.kaankaltakkiran.com/)
   
   - ✉️ Contact me at **durdu.kaan.kaltakkiran@gmail.com**
 
