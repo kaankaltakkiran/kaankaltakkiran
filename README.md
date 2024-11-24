@@ -27,9 +27,6 @@ WakaTime
   
   - ✉️ Contact me at **durdu.kaan.kaltakkiran@gmail.com**
 
-  - 🌱 All links [**about me**](https://link.kaankaltakkiran.com/@kaankaltakkiran)
-
-
 
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
