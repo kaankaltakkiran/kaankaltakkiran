@@ -44,7 +44,7 @@ const kaan = {
     backEnd: {
       xp: '2 yrs'.
       techs: {
-        "php": ["php",]
+        "php": ["php","Laravel"]
       }
     }
     db: {
@@ -80,8 +80,11 @@ const kaan = {
 
 ## Backend
 
-<div align="center">  
-    <a href="https://tr.wikipedia.org/wiki/JavaScript" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" height="50" /></a> 
+<div align="center"> 
+  <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="200" alt="Laravel Logo"></a>
+
+  
+  <a href="https://tr.wikipedia.org/wiki/JavaScript" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" height="50" /></a> 
   <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" height="50" /></a> 
   <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" height="50" /></a> 
 </div>
